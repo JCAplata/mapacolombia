@@ -1,0 +1,21 @@
+body{
+  height: 100vh;
+  margin: 0;
+  background-image: url(bandehuila.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+}
+.turismohuila h1 {
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
